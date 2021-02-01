@@ -1,1 +1,455 @@
-How many parameters does these class take?
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class CmsJlanNetworkFile?
+3. How many constructors have been defined for class CmsJlanNetworkFile?
+4. In how many number of ways can an object of class CmsJlanNetworkFile be created?
+5. Which method of class CmsJlanNetworkFile can be called only from within the same class?
+6. Which method of class CmsJlanNetworkFile can be called only from withing the same class or from  within its subclasses?
+7. Which instance variable of class CmsJlanNetworkFile cannot be called from outside the class?
+8. The value of which instance variable of class CmsJlanNetworkFile cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class MyExpenses?
+3. How many interfaces is implented by MyExpenses?
+4. How many constructors have been defined for class MyExpenses?
+5. In how many number of ways can an object of class MyExpenses be created?
+6. Which method of class MyExpenses can be called only from within the same class?
+7. Which method of class MyExpenses can be called only from withing the same class or from  within its subclasses?
+8. Which instance variable of class MyExpenses cannot be called from outside the class?
+9. The value of which instance variable of class MyExpenses cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class SmtpTransportTest?
+3. In how many number of ways can an object of class SmtpTransportTest be created?
+4. Which method of class SmtpTransportTest can be called only from within the same class?
+5. Which instance variable of class SmtpTransportTest cannot be called from outside the class?
+6. The value of which instance variable of class SmtpTransportTest cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class FlatFileItemReaderTests?
+3. In how many number of ways can an object of class FlatFileItemReaderTests be created?
+4. Which method of class FlatFileItemReaderTests can be called only from within the same class?
+5. Which instance variable of class FlatFileItemReaderTests cannot be called from outside the class?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class ExtendedConnectionDataSourceProxyTests?
+3. In how many number of ways can an object of class ExtendedConnectionDataSourceProxyTests be created?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class SyncAdapter?
+3. How many constructors have been defined for class SyncAdapter?
+4. In how many number of ways can an object of class SyncAdapter be created?
+5. Which method of class SyncAdapter can be called without needing an object?
+6. Which method of class SyncAdapter cannot access non static data members?
+7. Which method of class SyncAdapter cannot use this and super inside it?
+8. Which method of class SyncAdapter can be called only from within the same class?
+9. Which method of class SyncAdapter cannot be overridden in its subclasses?
+10. Which instance variable of class SyncAdapter cannot be called from outside the class?
+11. The value of which instance variable of class SyncAdapter cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class OpenCmsTestCase?
+3. How many constructors have been defined for class OpenCmsTestCase?
+4. In how many number of ways can an object of class OpenCmsTestCase be created?
+5. Which method of class OpenCmsTestCase can be called without needing an object?
+6. Which method of class OpenCmsTestCase cannot access non static data members?
+7. Which method of class OpenCmsTestCase cannot use this and super inside it?
+8. Which method of class OpenCmsTestCase can be called only from within the same class?
+9. Which method of class OpenCmsTestCase can be called only from withing the same class or from  within its subclasses?
+10. Which instance variable of class OpenCmsTestCase cannot be called from outside the class?
+11. Which instance variable of class OpenCmsTestCase can only be called from within its subclasses and itself?
+12. The value of which instance variable of class OpenCmsTestCase cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Can we create an object of class BaseEventSerializer?
+3. Can we create abstract methods inside class BaseEventSerializer?
+4. How many interfaces is implented by BaseEventSerializer?
+5. How many constructors have been defined for class BaseEventSerializer?
+6. In how many number of ways can an object of class BaseEventSerializer be created?
+7. Which method of class BaseEventSerializer can be called only from within the same class?
+8. Which instance variable of class BaseEventSerializer cannot be called from outside the class?
+9. Which instance variable of class BaseEventSerializer can only be called from within its subclasses and itself?
+10. The value of which instance variable of class BaseEventSerializer cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class ModulusExpression?
+3. How many constructors have been defined for class ModulusExpression?
+4. In how many number of ways can an object of class ModulusExpression be created?
+5. Which method of class ModulusExpression can be called only from within the same class?
+6. Which method of class ModulusExpression can be called only from withing the same class or from  within its subclasses?
+7. Which method of class ModulusExpression cannot be overridden in its subclasses?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class JsrBeanDefinitionDocumentReaderTests?
+3. How many constructors have been defined for class JsrBeanDefinitionDocumentReaderTests?
+4. In how many number of ways can an object of class JsrBeanDefinitionDocumentReaderTests be created?
+5. Which method of class JsrBeanDefinitionDocumentReaderTests can be called only from within the same class?
+6. Which instance variable of class JsrBeanDefinitionDocumentReaderTests cannot be called from outside the class?
+7. The value of which instance variable of class JsrBeanDefinitionDocumentReaderTests cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class TestTokenStreamRewriter?
+3. How many constructors have been defined for class TestTokenStreamRewriter?
+4. In how many number of ways can an object of class TestTokenStreamRewriter be created?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class GeneratorPropertyIteratorPanel?
+3. How many interfaces is implented by GeneratorPropertyIteratorPanel?
+4. How many constructors have been defined for class GeneratorPropertyIteratorPanel?
+5. In how many number of ways can an object of class GeneratorPropertyIteratorPanel be created?
+6. Which method of class GeneratorPropertyIteratorPanel can be called without needing an object?
+7. Which method of class GeneratorPropertyIteratorPanel cannot access non static data members?
+8. Which method of class GeneratorPropertyIteratorPanel cannot use this and super inside it?
+9. Which method of class GeneratorPropertyIteratorPanel can be called only from withing the same class or from  within its subclasses?
+10. Which instance variable of class GeneratorPropertyIteratorPanel cannot be called from outside the class?
+11. Which instance variable of class GeneratorPropertyIteratorPanel can only be called from within its subclasses and itself?
+12. The value of which instance variable of class GeneratorPropertyIteratorPanel cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class StickyListHeadersListView?
+3. How many constructors have been defined for class StickyListHeadersListView?
+4. In how many number of ways can an object of class StickyListHeadersListView be created?
+5. Which method of class StickyListHeadersListView can be called only from within the same class?
+6. Which method of class StickyListHeadersListView can be called only from withing the same class or from  within its subclasses?
+7. Which instance variable of class StickyListHeadersListView cannot be called from outside the class?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class ViewJob?
+3. Can we create an object of class ViewJob?
+4. Can we create abstract methods inside class ViewJob?
+5. How many constructors have been defined for class ViewJob?
+6. In how many number of ways can an object of class ViewJob be created?
+7. Which method of class ViewJob can be called without needing an object?
+8. Which method of class ViewJob cannot access non static data members?
+9. Which method of class ViewJob cannot use this and super inside it?
+10. Which method of class ViewJob can be called only from within the same class?
+11. Which method of class ViewJob can be called only from withing the same class or from  within its subclasses?
+12. Which instance variable of class ViewJob cannot be called from outside the class?
+13. Which instance variable of class ViewJob can only be called from within its subclasses and itself?
+14. The value of which instance variable of class ViewJob cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class ReportFragment?
+3. How many interfaces is implented by ReportFragment?
+4. How many constructors have been defined for class ReportFragment?
+5. In how many number of ways can an object of class ReportFragment be created?
+6. Which method of class ReportFragment can be called without needing an object?
+7. Which method of class ReportFragment cannot access non static data members?
+8. Which method of class ReportFragment cannot use this and super inside it?
+9. Which method of class ReportFragment can be called only from within the same class?
+10. Which instance variable of class ReportFragment cannot be called from outside the class?
+"
+"1. How many imports are there in the given java program?
+2. How many interfaces is implented by CheckEstimator?
+3. How many constructors have been defined for class CheckEstimator?
+4. In how many number of ways can an object of class CheckEstimator be created?
+5. Which method of class CheckEstimator can be called without needing an object?
+6. Which method of class CheckEstimator cannot access non static data members?
+7. Which method of class CheckEstimator cannot use this and super inside it?
+8. Which method of class CheckEstimator can be called only from within the same class?
+9. Which method of class CheckEstimator can be called only from withing the same class or from  within its subclasses?
+10. Which instance variable of class CheckEstimator can only be called from within its subclasses and itself?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class AntClassLoader?
+3. How many interfaces is implented by AntClassLoader?
+4. How many constructors have been defined for class AntClassLoader?
+5. In how many number of ways can an object of class AntClassLoader be created?
+6. Which method of class AntClassLoader can be called without needing an object?
+7. Which method of class AntClassLoader cannot access non static data members?
+8. Which method of class AntClassLoader cannot use this and super inside it?
+9. Which method of class AntClassLoader can be called only from within the same class?
+10. Which method of class AntClassLoader can be called only from withing the same class or from  within its subclasses?
+11. Which instance variable of class AntClassLoader cannot be called from outside the class?
+12. The value of which instance variable of class AntClassLoader cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class EditFuelTypeDialogFragment?
+3. How many constructors have been defined for class EditFuelTypeDialogFragment?
+4. In how many number of ways can an object of class EditFuelTypeDialogFragment be created?
+5. Which method of class EditFuelTypeDialogFragment can be called without needing an object?
+6. Which method of class EditFuelTypeDialogFragment cannot access non static data members?
+7. Which method of class EditFuelTypeDialogFragment cannot use this and super inside it?
+8. Which method of class EditFuelTypeDialogFragment can be called only from within the same class?
+9. Which instance variable of class EditFuelTypeDialogFragment cannot be called from outside the class?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class RemoteStore?
+3. Can we create an object of class RemoteStore?
+4. Can we create abstract methods inside class RemoteStore?
+5. How many constructors have been defined for class RemoteStore?
+6. In how many number of ways can an object of class RemoteStore be created?
+7. Which method of class RemoteStore can be called without needing an object?
+8. Which method of class RemoteStore cannot access non static data members?
+9. Which method of class RemoteStore cannot use this and super inside it?
+10. Which instance variable of class RemoteStore cannot be called from outside the class?
+11. Which instance variable of class RemoteStore can only be called from within its subclasses and itself?
+12. The value of which instance variable of class RemoteStore cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class TableBasedUpdateHandlerImpl?
+3. How many interfaces is implented by TableBasedUpdateHandlerImpl?
+4. How many constructors have been defined for class TableBasedUpdateHandlerImpl?
+5. In how many number of ways can an object of class TableBasedUpdateHandlerImpl be created?
+6. Which method of class TableBasedUpdateHandlerImpl can be called only from withing the same class or from  within its subclasses?
+7. Which instance variable of class TableBasedUpdateHandlerImpl cannot be called from outside the class?
+8. The value of which instance variable of class TableBasedUpdateHandlerImpl cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class CmsShell?
+3. In how many number of ways can an object of class CmsShell be created?
+4. Which method of class CmsShell can be called without needing an object?
+5. Which method of class CmsShell cannot access non static data members?
+6. Which method of class CmsShell cannot use this and super inside it?
+7. Which method of class CmsShell can be called only from withing the same class or from  within its subclasses?
+8. Which instance variable of class CmsShell cannot be called from outside the class?
+9. Which instance variable of class CmsShell can only be called from within its subclasses and itself?
+10. The value of which instance variable of class CmsShell cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class CmsHoverbarContextMenuButton?
+3. How many interfaces is implented by CmsHoverbarContextMenuButton?
+4. How many constructors have been defined for class CmsHoverbarContextMenuButton?
+5. In how many number of ways can an object of class CmsHoverbarContextMenuButton be created?
+6. Which method of class CmsHoverbarContextMenuButton can be called only from within the same class?
+7. Which method of class CmsHoverbarContextMenuButton can be called only from withing the same class or from  within its subclasses?
+8. Which instance variable of class CmsHoverbarContextMenuButton cannot be called from outside the class?
+"
+"1. How many imports are there in the given java program?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class SequenceValueExtractor?
+3. In how many number of ways can an object of class SequenceValueExtractor be created?
+4. Which instance variable of class SequenceValueExtractor cannot be called from outside the class?
+5. The value of which instance variable of class SequenceValueExtractor cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class SmtpTransport?
+3. How many constructors have been defined for class SmtpTransport?
+4. In how many number of ways can an object of class SmtpTransport be created?
+5. Which method of class SmtpTransport can be called without needing an object?
+6. Which method of class SmtpTransport cannot access non static data members?
+7. Which method of class SmtpTransport cannot use this and super inside it?
+8. Which method of class SmtpTransport can be called only from within the same class?
+9. Which method of class SmtpTransport can be called only from withing the same class or from  within its subclasses?
+10. Which instance variable of class SmtpTransport cannot be called from outside the class?
+11. The value of which instance variable of class SmtpTransport cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class PosixAPI?
+3. In how many number of ways can an object of class PosixAPI be created?
+4. Which method of class PosixAPI can be called without needing an object?
+5. Which method of class PosixAPI cannot access non static data members?
+6. Which method of class PosixAPI cannot use this and super inside it?
+7. Which instance variable of class PosixAPI cannot be called from outside the class?
+8. The value of which instance variable of class PosixAPI cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class StorageManager?
+3. In how many number of ways can an object of class StorageManager be created?
+4. Which method of class StorageManager can be called without needing an object?
+5. Which method of class StorageManager cannot access non static data members?
+6. Which method of class StorageManager cannot use this and super inside it?
+7. Which method of class StorageManager can be called only from withing the same class or from  within its subclasses?
+8. Which instance variable of class StorageManager cannot be called from outside the class?
+9. Which instance variable of class StorageManager can only be called from within its subclasses and itself?
+10. The value of which instance variable of class StorageManager cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class TimesTenDialect?
+3. How many constructors have been defined for class TimesTenDialect?
+4. In how many number of ways can an object of class TimesTenDialect be created?
+"
+
+"1. How many imports are there in the given java program?
+2. How many interfaces is implented by HealthReport?
+3. How many constructors have been defined for class HealthReport?
+4. In how many number of ways can an object of class HealthReport be created?
+5. Which method of class HealthReport can be called without needing an object?
+6. Which method of class HealthReport cannot access non static data members?
+7. Which method of class HealthReport cannot use this and super inside it?
+8. Which instance variable of class HealthReport cannot be called from outside the class?
+9. The value of which instance variable of class HealthReport cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class DropboxSyncProvider?
+3. How many constructors have been defined for class DropboxSyncProvider?
+4. In how many number of ways can an object of class DropboxSyncProvider be created?
+5. Which instance variable of class DropboxSyncProvider cannot be called from outside the class?
+6. The value of which instance variable of class DropboxSyncProvider cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Can we create an object of class AbstractPropertyHolder?
+3. Can we create abstract methods inside class AbstractPropertyHolder?
+4. How many interfaces is implented by AbstractPropertyHolder?
+5. How many constructors have been defined for class AbstractPropertyHolder?
+6. In how many number of ways can an object of class AbstractPropertyHolder be created?
+7. Which method of class AbstractPropertyHolder can be called without needing an object?
+8. Which method of class AbstractPropertyHolder cannot access non static data members?
+9. Which method of class AbstractPropertyHolder cannot use this and super inside it?
+10. Which method of class AbstractPropertyHolder can be called only from within the same class?
+11. Which method of class AbstractPropertyHolder can be called only from withing the same class or from  within its subclasses?
+12. Which instance variable of class AbstractPropertyHolder cannot be called from outside the class?
+13. Which instance variable of class AbstractPropertyHolder can only be called from within its subclasses and itself?
+14. The value of which instance variable of class AbstractPropertyHolder cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class MetaDataEndpointImpl?
+3. How many interfaces is implented by MetaDataEndpointImpl?
+4. How many constructors have been defined for class MetaDataEndpointImpl?
+5. In how many number of ways can an object of class MetaDataEndpointImpl be created?
+6. Which method of class MetaDataEndpointImpl can be called without needing an object?
+7. Which method of class MetaDataEndpointImpl cannot access non static data members?
+8. Which method of class MetaDataEndpointImpl cannot use this and super inside it?
+9. Which method of class MetaDataEndpointImpl can be called only from within the same class?
+10. Which instance variable of class MetaDataEndpointImpl cannot be called from outside the class?
+11. The value of which instance variable of class MetaDataEndpointImpl cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class ClassifierPerformanceEvaluatorCustomizer?
+3. How many interfaces is implented by ClassifierPerformanceEvaluatorCustomizer?
+4. How many constructors have been defined for class ClassifierPerformanceEvaluatorCustomizer?
+5. In how many number of ways can an object of class ClassifierPerformanceEvaluatorCustomizer be created?
+6. Which method of class ClassifierPerformanceEvaluatorCustomizer can be called only from within the same class?
+7. Which instance variable of class ClassifierPerformanceEvaluatorCustomizer cannot be called from outside the class?
+8. The value of which instance variable of class ClassifierPerformanceEvaluatorCustomizer cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class SetupWebDavSyncDialogActivity?
+3. How many constructors have been defined for class SetupWebDavSyncDialogActivity?
+4. In how many number of ways can an object of class SetupWebDavSyncDialogActivity be created?
+5. Which method of class SetupWebDavSyncDialogActivity can be called only from within the same class?
+6. Which instance variable of class SetupWebDavSyncDialogActivity cannot be called from outside the class?
+"
+"1. How many imports are there in the given java program?
+2. Which class cannot be inherited?
+3. How many constructors have been defined for class MessageHelper?
+4. In how many number of ways can an object of class MessageHelper be created?
+5. Which method of class MessageHelper can be called without needing an object?
+6. Which method of class MessageHelper cannot access non static data members?
+7. Which method of class MessageHelper cannot use this and super inside it?
+8. Which method of class MessageHelper can be called only from within the same class?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class HtmlConverterTest?
+3. In how many number of ways can an object of class HtmlConverterTest be created?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class ImapResponseParserTest?
+3. In how many number of ways can an object of class ImapResponseParserTest be created?
+4. Which method of class ImapResponseParserTest can be called only from within the same class?
+5. Which instance variable of class ImapResponseParserTest cannot be called from outside the class?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class BatchMessageListenerContainerIntegrationTests?
+3. In how many number of ways can an object of class BatchMessageListenerContainerIntegrationTests be created?
+4. Which method of class BatchMessageListenerContainerIntegrationTests can be called without needing an object?
+5. Which method of class BatchMessageListenerContainerIntegrationTests cannot access non static data members?
+6. Which method of class BatchMessageListenerContainerIntegrationTests cannot use this and super inside it?
+7. Which instance variable of class BatchMessageListenerContainerIntegrationTests cannot be called from outside the class?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class TestRig?
+3. In how many number of ways can an object of class TestRig be created?
+4. Which method of class TestRig can be called without needing an object?
+5. Which method of class TestRig cannot access non static data members?
+6. Which method of class TestRig cannot use this and super inside it?
+7. Which method of class TestRig can be called only from withing the same class or from  within its subclasses?
+8. Which instance variable of class TestRig can only be called from within its subclasses and itself?
+9. The value of which instance variable of class TestRig cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class LazyFontSelector?
+3. In how many number of ways can an object of class LazyFontSelector be created?
+4. Which method of class LazyFontSelector can be called only from within the same class?
+5. Which method of class LazyFontSelector can be called only from withing the same class or from  within its subclasses?
+6. Which instance variable of class LazyFontSelector can only be called from within its subclasses and itself?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class GrammarDependencies?
+3. In how many number of ways can an object of class GrammarDependencies be created?
+4. Which method of class GrammarDependencies can be called only from within the same class?
+5. Which instance variable of class GrammarDependencies cannot be called from outside the class?
+6. The value of which instance variable of class GrammarDependencies cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. How many interfaces is implented by Array2DHashSet?
+3. How many constructors have been defined for class Array2DHashSet?
+4. In how many number of ways can an object of class Array2DHashSet be created?
+5. Which method of class Array2DHashSet can be called only from withing the same class or from  within its subclasses?
+6. Which method of class Array2DHashSet cannot be overridden in its subclasses?
+7. Which instance variable of class Array2DHashSet can only be called from within its subclasses and itself?
+8. The value of which instance variable of class Array2DHashSet cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class PhoenixSink?
+3. Which class cannot be inherited?
+4. How many interfaces is implented by PhoenixSink?
+5. How many constructors have been defined for class PhoenixSink?
+6. In how many number of ways can an object of class PhoenixSink be created?
+7. Which method of class PhoenixSink can be called only from within the same class?
+8. Which instance variable of class PhoenixSink cannot be called from outside the class?
+9. The value of which instance variable of class PhoenixSink cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class ModelPerformanceChartInteractiveView?
+3. How many constructors have been defined for class ModelPerformanceChartInteractiveView?
+4. In how many number of ways can an object of class ModelPerformanceChartInteractiveView be created?
+5. Which instance variable of class ModelPerformanceChartInteractiveView cannot be called from outside the class?
+6. Which instance variable of class ModelPerformanceChartInteractiveView can only be called from within its subclasses and itself?
+7. The value of which instance variable of class ModelPerformanceChartInteractiveView cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class CmsListRadioMultiAction?
+3. How many constructors have been defined for class CmsListRadioMultiAction?
+4. In how many number of ways can an object of class CmsListRadioMultiAction be created?
+5. Which method of class CmsListRadioMultiAction can be called only from within the same class?
+6. Which instance variable of class CmsListRadioMultiAction cannot be called from outside the class?
+7. The value of which instance variable of class CmsListRadioMultiAction cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class StaxEventItemWriterTests?
+3. In how many number of ways can an object of class StaxEventItemWriterTests be created?
+4. Which method of class StaxEventItemWriterTests can be called only from within the same class?
+5. Which instance variable of class StaxEventItemWriterTests cannot be called from outside the class?
+6. The value of which instance variable of class StaxEventItemWriterTests cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. How many constructors have been defined for class Iterators?
+3. In how many number of ways can an object of class Iterators be created?
+4. Which method of class Iterators can be called without needing an object?
+5. Which method of class Iterators cannot access non static data members?
+6. Which method of class Iterators cannot use this and super inside it?
+"
+"1. How many imports are there in the given java program?
+2. How many interfaces is implented by EstimatorUtils?
+3. How many constructors have been defined for class EstimatorUtils?
+4. In how many number of ways can an object of class EstimatorUtils be created?
+5. Which method of class EstimatorUtils can be called without needing an object?
+6. Which method of class EstimatorUtils cannot access non static data members?
+7. Which method of class EstimatorUtils cannot use this and super inside it?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class CsvBulkLoadTool?
+3. How many interfaces is implented by CsvBulkLoadTool?
+4. How many constructors have been defined for class CsvBulkLoadTool?
+5. In how many number of ways can an object of class CsvBulkLoadTool be created?
+6. Which method of class CsvBulkLoadTool can be called without needing an object?
+7. Which method of class CsvBulkLoadTool cannot access non static data members?
+8. Which method of class CsvBulkLoadTool cannot use this and super inside it?
+9. Which method of class CsvBulkLoadTool can be called only from within the same class?
+10. Which instance variable of class CsvBulkLoadTool cannot be called from outside the class?
+11. The value of which instance variable of class CsvBulkLoadTool cannot be modified?
+"
+"1. How many imports are there in the given java program?
+2. Which class is the the parent of class MainActivity?
+3. How many interfaces is implented by MainActivity?
+4. How many constructors have been defined for class MainActivity?
+5. In how many number of ways can an object of class MainActivity be created?
+6. Which method of class MainActivity can be called without needing an object?
+7. Which method of class MainActivity cannot access non static data members?
+8. Which method of class MainActivity cannot use this and super inside it?
+9. Which method of class MainActivity can be called only from within the same class?
+10. Which method of class MainActivity can be called only from withing the same class or from  within its subclasses?
+11. Which instance variable of class MainActivity cannot be called from outside the class?
+12. The value of which instance variable of class MainActivity cannot be modified?
+"
